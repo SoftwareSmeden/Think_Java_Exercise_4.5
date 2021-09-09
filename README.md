@@ -1,4 +1,5 @@
 # Think Java Exercise 4.5
 
-<h2/>Billede 1:<h2/>
+**SoftwareSmeden**
+- [Profile](https://github.com/SoftwareSmeden "SoftwareSmeden")
 
